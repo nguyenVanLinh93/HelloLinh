@@ -6,6 +6,7 @@ package com.example.thinguyen.hellolinh;
 
 public class Hehe {
     int kaka;
+    int keke;
 
     public int getKaka() {
         return kaka;
